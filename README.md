@@ -1,4 +1,4 @@
 # DashBoard
 
-This is used using React-Vite
+This is made using React-Vite
 ## https://ritik-dashboard.netlify.app/
